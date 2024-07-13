@@ -2,13 +2,13 @@
 
 <p>
     <a href="https://linkedin.com/in/eduudebx">
-        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/linkedin.png" height="35">
+        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/linkedin.png" height="32">
     </a>
     <a href="https://instagram.com/eduudebx">
-        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/instagram.png" height="35">
+        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/instagram.png" height="32">
     </a>
     <a href="https://tiktok.com/@eduudebx">
-        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/tiktok.png" height="38">
+        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/tiktok.png" height="35">
     </a>
 </p>
 
