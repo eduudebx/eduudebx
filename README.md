@@ -9,6 +9,6 @@
     </a>
 </p>
 
-Este es mi repositorio de aprendizaje en Análisis de Datos, puedes iniciar tu recorrido por <a href="https://github.com/eduudebx/ad-repo">aquí!</a>
+Este es mi repositorio de aprendizaje en Análisis de Datos, puedes iniciar tu recorrido por <a href="https://github.com/eduudebx/analisis-datos">aquí!</a>
 
 
