@@ -8,7 +8,7 @@
         <img src="https://github.com/eduudebx/eduudebx/blob/main/img/instagram.png" height="32">
     </a>
     <a href="https://tiktok.com/@eduudebx">
-        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/tiktok.png" height="32">
+        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/tiktok.png" height="34">
     </a>
 </p>
 
