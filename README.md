@@ -7,6 +7,9 @@
     <a href="https://instagram.com/eduudebx">
         <img src="https://github.com/eduudebx/eduudebx/blob/main/img/instagram.png" height="32">
     </a>
+    <a href="https://tiktok.com/@eduudebx">
+        <img src="https://github.com/eduudebx/eduudebx/blob/main/img/tiktok.png" height="32">
+    </a>
 </p>
 
 Este es mi repositorio de aprendizaje en Análisis de Datos, puedes iniciar tu recorrido por <a href="https://github.com/eduudebx/analisis-datos">aquí!</a>
